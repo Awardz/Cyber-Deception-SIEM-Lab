@@ -1,0 +1,5 @@
+
+  <localfile>
+    <log_format>json</log_format>
+    <location>/home/cowrie/cowrie/var/log/cowrie/cowrie.json</location>
+  </localfile>
